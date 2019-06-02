@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-06-01 12:24:02
+/* Smarty version 3.1.33, created on 2019-06-01 21:22:21
   from 'module:pscustomeraccountlinkspsc' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cf2b4b2cb1b49_40439615',
+  'unifunc' => 'content_5cf332ddd33fe7_30214356',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5cf2b4b2cb1b49_40439615 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5cf332ddd33fe7_30214356 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
 ));
 ?>
@@ -56,6 +56,11 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
             <li>
           <a href="http://localhost/prestashop_1.7.5.1/es/direcciones" title="Direcciones" rel="nofollow">
             Direcciones
+          </a>
+        </li>
+            <li>
+          <a href="http://localhost/prestashop_1.7.5.1/es/descuento" title="Cupones de descuento" rel="nofollow">
+            Cupones de descuento
           </a>
         </li>
         

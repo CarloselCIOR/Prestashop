@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-06-01 14:34:31
+/* Smarty version 3.1.33, created on 2019-06-01 21:22:20
   from 'module:psimagesliderviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cf2d347488e23_32987198',
+  'unifunc' => 'content_5cf332dc4f5bc0_77258812',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,14 +18,18 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5cf2d347488e23_32987198 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5cf332dc4f5bc0_77258812 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
   <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover">
     <ul class="carousel-inner" role="listbox">
               <li class="carousel-item active" role="option" aria-hidden="false">
-          <a href="http://localhost/prestashop_1.7.5.1/es/inicio/5-tarjeta-de-video-asus-nvidia-geforce-rtx-2080-ti-rog-strix-gaming-advanced-edition.html">
+          <a href="http://localhost/prestashop_1.7.5.1/es/inicio/15-tarjeta-de-video-asus-nvidia-geforce-rtx-2080-ti-rog-strix-gaming-advanced-edition.html">
             <figure>
               <img src="http://localhost/prestashop_1.7.5.1/modules/ps_imageslider/images/649ad9e166ad308c694024d9851ffee643bc2aa9_nvidia-geforce-rtx-2080-ti-south-africa-banner-980px-v1.png" alt="">
+                              <figcaption class="caption">
+                  <h2 class="display-1 text-uppercase"></h2>
+                  <div class="caption-description"><p>11 GB GDDR6        4352 CUDA CORES</p></div>
+                </figcaption>
                           </figure>
           </a>
         </li>
